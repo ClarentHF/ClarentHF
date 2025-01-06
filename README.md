@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ClarentHF
 - 👀 I’m interested in all of the part of coding
-- 🌱 I’m currently learning python
-- 📫 How to reach me on my email : Clarenthf@gmail.com
+- 🌱 I’m currently learning IT at university
+- 📫 How to reach me on my email : Clarent.hemeryfay.pro@gmail.com
 - ⚡ Fun fact: I love discover a lot of new things
 
 <!---
